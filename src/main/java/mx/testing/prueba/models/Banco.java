@@ -1,4 +1,4 @@
-package mx.unindetec.prueba.models;
+package mx.testing.prueba.models;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

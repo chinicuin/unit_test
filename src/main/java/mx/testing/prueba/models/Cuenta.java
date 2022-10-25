@@ -1,6 +1,6 @@
-package mx.unindetec.prueba.models;
+package mx.testing.prueba.models;
 
-import mx.unindetec.prueba.exceptions.SaldoInsuficienteException;
+import mx.testing.prueba.exceptions.SaldoInsuficienteException;
 
 import java.math.BigDecimal;
 
